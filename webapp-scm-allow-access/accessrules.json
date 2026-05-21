@@ -270,5 +270,77 @@
   {
     "Name": "SASE-India-West-3",
     "IpAddress": "208.127.166.161/32"
+  },
+  {
+    "Name": "SASE-India-South-1",
+    "IpAddress": "134.238.253.23/32"
+  },
+  {
+    "Name": "SASE-India-South-2",
+    "IpAddress": "134.238.253.112/32"
+  },
+  {
+    "Name": "SASE-India-South-3",
+    "IpAddress": "208.127.166.113/32"
+  },
+  {
+    "Name": "SASE-India-North-1",
+    "IpAddress": "130.41.61.34/32"
+  },
+  {
+    "Name": "SASE-India-North-2",
+    "IpAddress": "130.41.61.151/32"
+  },
+  {
+    "Name": "SASE-India-North-3",
+    "IpAddress": "165.85.55.82/32"
+  },
+  {
+    "Name": "Hyderabad-TATA-1",
+    "IpAddress": "14.194.44.192/30"
+  },
+  {
+    "Name": "Hyderabad-TATA-2",
+    "IpAddress": "14.194.46.48/29"
+  },
+  {
+    "Name": "Hyderabad-Airtel-1",
+    "IpAddress": "125.21.139.44/30"
+  },
+  {
+    "Name": "Hyderabad-Airtel-2",
+    "IpAddress": "125.21.130.40/29"
+  },
+  {
+    "Name": "Hyderabad-JIO-1",
+    "IpAddress": "115.242.129.144/30"
+  },
+  {
+    "Name": "Hyderabad-JIO-2",
+    "IpAddress": "47.247.8.80/29"
+  },
+  {
+    "Name": "Hyderabad-Nexity-TATA-1",
+    "IpAddress": "14.96.136.56/30"
+  },
+  {
+    "Name": "Hyderabad-Nexity-TATA-2",
+    "IpAddress": "14.98.242.112/29"
+  },
+  {
+    "Name": "Hyderabad-Nexity-Aitel-1",
+    "IpAddress": "182.71.252.132/30"
+  },
+  {
+    "Name": "Hyderabad-Nexity-Aitel-2",
+    "IpAddress": "125.22.104.88/29"
+  },
+  {
+    "Name": "Hyderabad-Nexity-JIO-1",
+    "IpAddress": "136.232.224.128/30"
+  },
+  {
+    "Name": "Hyderabad-Nexity-JIO-2",
+    "IpAddress": "115.241.196.216/29"
   }
 ]
