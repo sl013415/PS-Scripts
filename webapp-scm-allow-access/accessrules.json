@@ -1,0 +1,274 @@
+[
+  {
+    "Name": "Alpharetta-Sungard-1",
+    "IpAddress": "64.238.200.128/27"
+  },
+  {
+    "Name": "Alpharetta-Sungard-2",
+    "IpAddress": "69.164.103.64/28"
+  },
+  {
+    "Name": "Alpharetta-Sungard-3",
+    "IpAddress": "208.16.210.16/28"
+  },
+  {
+    "Name": "Alpharetta-Sungard-4",
+    "IpAddress": "69.164.97.192/28"
+  },
+  {
+    "Name": "Alpharetta-CenturyLink-1",
+    "IpAddress": "208.45.223.104/29"
+  },
+  {
+    "Name": "Alpharetta-CenturyLink-2",
+    "IpAddress": "63.235.3.0/24"
+  },
+  {
+    "Name": "Alpharetta-Verizon-1",
+    "IpAddress": "65.205.176.128/26"
+  },
+  {
+    "Name": "Atlanta-ATT-1",
+    "IpAddress": "143.170.201.168/29"
+  },
+  {
+    "Name": "Atlanta-Verizon-1",
+    "IpAddress": "157.130.85.220/30"
+  },
+  {
+    "Name": "Culpeper-Equinix-1",
+    "IpAddress": "142.215.253.0/24"
+  },
+  {
+    "Name": "Axminster-Spectrum-1",
+    "IpAddress": "71.14.219.0/28"
+  },
+  {
+    "Name": "Boston-LightPath-1",
+    "IpAddress": "47.19.204.16/28"
+  },
+  {
+    "Name": "Boston-Comcast-1",
+    "IpAddress": "50.150.20.81/29"
+  },
+  {
+    "Name": "Jacksonville-Flexential-1",
+    "IpAddress": "66.129.88.208/29"
+  },
+  {
+    "Name": "Jacksonville-Flexential-2",
+    "IpAddress": "209.34.236.192/26"
+  },
+  {
+    "Name": "Jacksonville-Flexential-3",
+    "IpAddress": "66.129.125.128/26"
+  },
+  {
+    "Name": "Jacksonville-Lumen-1",
+    "IpAddress": "4.79.117.248/29"
+  },
+  {
+    "Name": "Morristown-LightPath-1",
+    "IpAddress": "69.74.194.126/27"
+  },
+  {
+    "Name": "Morristown-Lumen-1",
+    "IpAddress": "4.34.75.214/29"
+  },
+  {
+    "Name": "St.Petersburg-CenturyLink-1",
+    "IpAddress": "4.78.211.0/27"
+  },
+  {
+    "Name": "St.Petersburg-Cogent-1",
+    "IpAddress": "38.140.226.96/29"
+  },
+  {
+    "Name": "St.Petersburg-Cogent-2",
+    "IpAddress": "38.101.16.64/26"
+  },
+  {
+    "Name": "SASE-US-Central-1",
+    "IpAddress": "208.127.106.54/32"
+  },
+  {
+    "Name": "SASE-US-Central-2",
+    "IpAddress": "208.127.106.192/32"
+  },
+  {
+    "Name": "SASE-US-Central-3",
+    "IpAddress": "208.127.247.174/32"
+  },
+  {
+    "Name": "SASE-US-SouthEast-1",
+    "IpAddress": "165.1.156.229/32"
+  },
+  {
+    "Name": "SASE-US-SouthEast-2",
+    "IpAddress": "165.1.156.62/32"
+  },
+  {
+    "Name": "SASE-US-SouthEast-3",
+    "IpAddress": "165.1.156.63/32"
+  },
+  {
+    "Name": "SASE-US-SouthEast-4",
+    "IpAddress": "165.1.156.228/32"
+  },
+  {
+    "Name": "SASE-US-East-1",
+    "IpAddress": "130.41.225.214/32"
+  },
+  {
+    "Name": "SASE-US-East-2",
+    "IpAddress": "208.127.73.186/32"
+  },
+  {
+    "Name": "SASE-US-East-3",
+    "IpAddress": "34.100.65.240/32"
+  },
+  {
+    "Name": "SASE-US-East-4",
+    "IpAddress": "34.124.94.64/32"
+  },
+  {
+    "Name": "SASE-US-NorthEast-1",
+    "IpAddress": "208.127.227.41/32"
+  },
+  {
+    "Name": "SASE-US-NorthEast-2",
+    "IpAddress": "208.127.90.230/32"
+  },
+  {
+    "Name": "SASE-US-NorthEast-3",
+    "IpAddress": "208.127.90.209/32"
+  },
+  {
+    "Name": "SASE-US-NorthEast-4",
+    "IpAddress": "165.1.204.62/32"
+  },
+  {
+    "Name": "SASE-US-South-1",
+    "IpAddress": "165.85.62.41/32"
+  },
+  {
+    "Name": "SASE-US-South-2",
+    "IpAddress": "165.85.62.42/32"
+  },
+  {
+    "Name": "SASE-US-South-3",
+    "IpAddress": "169.224.164.46/32"
+  },
+  {
+    "Name": "SASE-US-South-4",
+    "IpAddress": "134.231.209.150/32"
+  },
+  {
+    "Name": "Arsalon-1",
+    "IpAddress": "199.27.235.68/28"
+  },
+  {
+    "Name": "Arsalon-2",
+    "IpAddress": "12.124.143.230/29"
+  },
+  {
+    "Name": "Arsalon-3",
+    "IpAddress": "68.169.26.199/28"
+  },
+  {
+    "Name": "BLY-1",
+    "IpAddress": "66.194.30.157/24"
+  },
+  {
+    "Name": "DBK-1",
+    "IpAddress": "68.169.18.126/27"
+  },
+  {
+    "Name": "DBK-2",
+    "IpAddress": "204.13.97.0/24"
+  },
+  {
+    "Name": "OPK-Palo",
+    "IpAddress": "68.187.9.137/27"
+  },
+  {
+    "Name": "OPK-ASA",
+    "IpAddress": "68.187.9.130/32"
+  },
+  {
+    "Name": "St.Louis-Old-1",
+    "IpAddress": "143.170.241.18/29"
+  },
+  {
+    "Name": "St.Louis-Old-2",
+    "IpAddress": "24.182.141.100/27"
+  },
+  {
+    "Name": "XIO-1",
+    "IpAddress": "67.221.227.228/28"
+  },
+  {
+    "Name": "XIO-2",
+    "IpAddress": "63.246.3.5/28"
+  },
+  {
+    "Name": "Azure-LZ",
+    "IpAddress": "20.22.102.0/24"
+  },
+  {
+    "Name": "Azure-Price-1",
+    "IpAddress": "23.101.156.142/32"
+  },
+  {
+    "Name": "Azure-Price-2",
+    "IpAddress": "104.209.174.148/32"
+  },
+  {
+    "Name": "Azure-Payments-1",
+    "IpAddress": "104.208.232.25/32"
+  },
+  {
+    "Name": "Azure-Payments-2",
+    "IpAddress": "104.46.4.234/32"
+  },
+  {
+    "Name": "Plano-Datacenter-1",
+    "IpAddress": "38.140.236.106/29"
+  },
+  {
+    "Name": "Plano-Datacenter-2",
+    "IpAddress": "212.69.158.20/27"
+  },
+  {
+    "Name": "Plano-Datacenter-3",
+    "IpAddress": "38.122.59.42/29"
+  },
+  {
+    "Name": "Oakbrook-Datacenter-1",
+    "IpAddress": "207.223.34.55/27"
+  },
+  {
+    "Name": "Oakbrook-Datacenter-2",
+    "IpAddress": "38.122.209.27/27"
+  },
+  {
+    "Name": "Plano-1",
+    "IpAddress": "208.184.59.221/29"
+  },
+  {
+    "Name": "Azure-LZ-DR",
+    "IpAddress": "20.84.141.0/24"
+  },
+  {
+    "Name": "SASE-India-West-1",
+    "IpAddress": "134.238.240.123/32"
+  },
+  {
+    "Name": "SASE-India-West-2",
+    "IpAddress": "134.238.240.122/32"
+  },
+  {
+    "Name": "SASE-India-West-3",
+    "IpAddress": "208.127.166.161/32"
+  }
+]
