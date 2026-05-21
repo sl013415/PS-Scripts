@@ -4,6 +4,14 @@ $rgname = "your-resource-group"
 $waname = "your-webapp-name"
 $jsonPath = ".\accessrules.json"
 
+# SCM site should NOT inherit main site rules
+# SCM unmatched rule action = Deny
+Set-AzWebAppAccessRestrictionConfig `
+    -ResourceGroupName $rgname `
+    -Name $waname `
+    -ScmSiteUseMainSiteRestrictionConfig $false `
+    -ScmIpSecurityRestrictionDefaultAction Deny
+
 # Load JSON file
 $rules = Get-Content $jsonPath -Raw | ConvertFrom-Json
 
